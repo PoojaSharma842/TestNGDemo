@@ -90,6 +90,7 @@
           <suiteXmlFiles>
             <suiteXmlFile>TestSuite.xml</suiteXmlFile>
           </suiteXmlFiles>
+          <browserName>Chrome</browserName>
         </configuration>
       </plugin>
       <plugin>
